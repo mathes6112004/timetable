@@ -15,4 +15,10 @@ Execute the program
 
 # CODE
 
+### Timetable 
+
+!![Timetable](./img/sec.png)
+
 # OUPUT
+
+The resulted output is received.
