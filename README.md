@@ -17,7 +17,7 @@ Execute the program
 
 ### Timetable 
 
-![Timetable](./img/sec.png)
+![Timetable](./img/timetable.png)
 # OUPUT
 
 The resulted output is received.
